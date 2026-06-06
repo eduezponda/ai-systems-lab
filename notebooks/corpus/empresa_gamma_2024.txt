@@ -1,0 +1,26 @@
+
+        INFORME ANUAL EMPRESA GAMMA 2024
+
+        Resultados financieros:
+        Gamma alcanzó un revenue de 8.9 millones de euros, crecimiento del 67% vs 2023 (5.3M).
+        La compañía sigue en fase de inversión: EBITDA negativo de -2.4 millones.
+        El beneficio neto fue de -3.1 millones de euros.
+        La caja disponible es de 14.2 millones de euros tras ronda de financiación Serie B.
+
+        Modelo de negocio:
+        Gamma opera como plataforma SaaS de gestión de flota para empresas de transporte.
+        ARR (Annual Recurring Revenue) de 7.8 millones, crecimiento del 71% interanual.
+        NRR (Net Revenue Retention) del 118%, indicando expansión en clientes existentes.
+        Churn rate del 4.2% anual.
+
+        Métricas operativas:
+        Clientes activos: 342 empresas.
+        Empleados: 89 personas, +31 vs año anterior.
+        Coste de adquisición de cliente (CAC): 18.400 euros.
+        Lifetime Value (LTV): 94.000 euros. Ratio LTV/CAC: 5.1x.
+
+        Perspectivas 2025:
+        Objetivo ARR: 13 millones de euros a cierre de 2025.
+        Expansión a mercado francés y alemán en Q2 2025.
+        Previsión de alcanzar EBITDA breakeven en Q4 2025.
+        

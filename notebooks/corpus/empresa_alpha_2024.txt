@@ -1,0 +1,25 @@
+
+        INFORME ANUAL EMPRESA ALPHA 2024
+
+        Resultados financieros:
+        El revenue total del ejercicio 2024 fue de 47.3 millones de euros, 
+        representando un crecimiento del 18.4% respecto a los 39.9 millones de 2023.
+        El EBITDA alcanzó 12.1 millones de euros, con margen del 25.6%.
+        El beneficio neto fue de 6.8 millones de euros.
+        La deuda neta se redujo a 3.2 millones de euros desde 8.1 millones en 2023.
+
+        Segmentos de negocio:
+        El segmento de software representó el 68% del revenue (32.2M euros).
+        El segmento de servicios profesionales aportó el 32% restante (15.1M euros).
+        El segmento de software creció un 24% interanual.
+
+        Mercados geográficos:
+        España representa el 45% de las ventas (21.3M euros).
+        Europa central aportó el 35% (16.6M euros).
+        Latinoamérica contribuyó el 20% restante (9.5M euros).
+
+        Perspectivas 2025:
+        La compañía espera un crecimiento del revenue entre el 15% y el 20%.
+        Se prevé una inversión en I+D de 4.2 millones de euros.
+        El objetivo de EBITDA margin es superar el 27%.
+        
